@@ -1,0 +1,39 @@
+header{
+	
+	background-color:green;
+	font-family:Times new roman;
+	color:black;
+	font-size:25px;
+	font-weight:bold;		
+}
+ul li{
+	background-color:green;
+	color:red;
+	display:inline;
+	list-style:none;
+	padding:5px 5px 5px;
+	font-size:20px;
+	font-family:Helvetica,Algerian;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+}
+body{
+	background-color:green;
+	Text-align:centre;
+}
+header{
+	color:red;
+	font-family:Algerian;
+	font-size:25px;
+	font-weight:normal;
+}
+#leaders{
+	color: red;
+}
+#pace_setters{
+	color:red;
+	font-size:20px;
+	font-family:Algerian;"Times New Roman";
+}
+
